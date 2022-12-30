@@ -1,0 +1,156 @@
+.nav{
+  background: rgb(255,101,51);
+  background: linear-gradient(360deg, rgba(255,101,51,1) 0%, rgba(248,62,47,1) 100%);
+}
+
+.container-custom{
+  padding: 0px 3.2rem;
+}
+
+.topnav{
+  width: 100%;
+  padding: 0.2rem 0rem 1rem 0rem;
+}
+
+.topnav-kiri ul, .topnav-kanan ul{
+  padding: 0px;
+  margin: 0px;
+}
+
+.topnav-kanan ul{
+  text-align: right;
+}
+
+.topnav-kiri ul li{
+  display: inline-block;
+  border-right: 3px double #eaeaea7d;
+  line-height: 10px;
+  padding: 0px 2px;
+}
+
+.topnav-kanan{
+  float: right;
+}
+
+.topnav-kanan ul li{
+  display: inline-block;
+}
+
+.topnav-kiri ul li:last-child{
+  border: none;
+}
+
+.topnav-kiri ul li a{
+  padding: 0rem 0.2rem;
+  text-decoration: none;
+  font-size: 13px;
+  color: white;
+}
+
+.topnav-kanan ul li a{
+  padding: 0rem 0.2rem;
+  text-decoration: none;
+  font-size: 13px;
+  color: white;
+}
+
+a.icon-sosmed{
+  padding: 0rem !important;
+  margin: 0rem 6px 0rem 0rem;
+}
+
+a.icon-sosmed i{
+  font-size: 1rem;
+}
+
+li.username{
+  margin-left: 10px;
+
+}
+
+li.username a{
+  font-weight: 550;
+  vertical-align: middle;
+}
+
+img.img-user{
+  width: 1rem;
+  height: 1rem;
+  line-height: 1rem;
+  vertical-align: middle;
+
+}
+
+img.shopee-logo{
+  width: 70%;
+height: auto;
+vertical-align: middle;
+}
+
+.search-bar{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;  
+  position: relative; /* added */
+}
+
+
+
+input {
+  height: 40px;
+  width: 100%;  /* changed */
+  background-color: white;
+  border-radius: 2px;
+  border: 1px solid white;
+  padding-right: 100px; /* added */
+  padding-left: 15px;
+  line-height: 40px;
+  vertical-align: middle;
+  
+}
+
+button {
+  height: 30px;
+  width: 70px;
+  background-color: #EE4D2D;
+  color: #ffffff;
+  text-transform: uppercase;
+  border-style: none;
+  border-radius: 2px;
+  position: absolute; /* added */
+  right: 5px; /* added */
+  vertical-align: middle;
+}
+
+.icon-cart{
+  vertical-align: middle;
+  text-align: center;
+  line-height: 40px;
+  font-size: 1.3rem;
+  color: white;
+}
+
+ul.nav-bottom li{
+  display: inline-block;
+  margin-bottom: 1rem;
+
+}
+
+a.item-bottom{
+  font-size: 13px;
+  color: white;
+  font-weight: 100;
+  margin-right: 12px;
+  text-decoration: none;
+}
+
+ul.nav-bottom{
+  padding: 0;
+  height: 18px;
+}
+
+.bottomnav{
+  padding: 5px 0px;
+}
