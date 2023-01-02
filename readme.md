@@ -1,6 +1,6 @@
 # Shopee Clone
 
-Repository ini adalah clone tampilan dari shopee versi web di desktop. Dibuat dengan HTML, CSS, Bootstrap 5. Repository ini akan terus diupdate secara berkala.
+Repository ini adalah clone tampilan dari shopee versi web di desktop. Repository ini akan terus diupdate secara berkala.
 
 [Live Preview](https://akbarrahmatm.github.io/shopee-clone/)
 
