@@ -158,3 +158,40 @@ ul.nav-bottom{
   background-color: white;
   border-bottom: 1px solid #eaeaea;
 }
+
+img.icon_img{
+  width: 50px;
+}
+
+.group-icon{
+  text-align: center;
+}
+
+.group-icon ul{
+  margin-bottom: 0px;
+
+}
+
+.group-icon ul li{
+  width: 80px;
+  margin: 0px 18px;
+  display: inline-block;
+  vertical-align: top;
+
+}
+
+.group-icon ul li:hover{
+  margin-top: -2px;
+}
+
+.group-icon ul li a{
+  text-decoration: none;
+}
+
+p.icon_text{
+  width: 100%;
+  font-size: 12px;
+  margin-top: 5px;
+  color: black;
+  text-decoration: none;
+}
