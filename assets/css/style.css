@@ -169,6 +169,7 @@ img.icon_img{
 
 .group-icon ul{
   margin-bottom: 0px;
+  padding-left: 0px;
 
 }
 
@@ -177,7 +178,6 @@ img.icon_img{
   margin: 0px 18px;
   display: inline-block;
   vertical-align: top;
-
 }
 
 .group-icon ul li:hover{
