@@ -9,6 +9,7 @@ Repository ini adalah clone tampilan dari shopee versi web di desktop. Repositor
 - Top Navigation
 - Search Bar
 - Slider
+- Icon Menu Below Slider
 
 ## Tech
 
